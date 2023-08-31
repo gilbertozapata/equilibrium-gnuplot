@@ -1,0 +1,3 @@
+#!/bin/bash
+pip install gnuplot_kernel
+python -m gnuplot_kernel install --user
