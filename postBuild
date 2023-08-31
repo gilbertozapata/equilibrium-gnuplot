@@ -1,3 +1,4 @@
 #!/bin/bash
-pip install gnuplot_kernel
+# pip install gnuplot_kernel
+pip install https://github.com/ouseful-PR/gnuplot_kernel.git
 python -m gnuplot_kernel install --user
