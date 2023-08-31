@@ -1,4 +1,5 @@
 #!/bin/bash
 # pip install gnuplot_kernel
-pip install https://github.com/ouseful-PR/gnuplot_kernel.git#egg=flask-session
+pip install https://github.com/ouseful-PR/gnuplot_kernel.git
+# egg=flask-session
 python -m gnuplot_kernel install --user
